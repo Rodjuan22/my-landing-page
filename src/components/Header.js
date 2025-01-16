@@ -1,4 +1,5 @@
 import React from 'react';
+
 const Header = () => (
   <header style={{ padding: '1rem', backgroundColor: '#f5f5f5' }}>
     <h1>Your Business Name</h1>
